@@ -1,6 +1,5 @@
 import numpy as np
 
-
 class Regression:
     def __init__(self, loop=1000, learning_time=0.001):
         self.loop = loop
